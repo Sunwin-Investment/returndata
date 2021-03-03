@@ -80,7 +80,7 @@
     "name": "Tracy",
     "info": "Tracy is a corporate financial advisor, has over 20 years’ experience in investment management. She provides robust, tailored, and personal investment advice to clients, and communicates with clients regarding their investment portfolios and financial wellbeing. She had been working with the top institution in Singapore, China, and Australia. She helps clients and enterprises obtain the highest investment returns in the past few years.",
     "uni": "",
-    "major": "International trade",
+    "major": "",
     "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/WechatIMG1249-1920w.jpeg"
   },{
     "name":"Jun Huang",
@@ -119,11 +119,11 @@
     "major":"Data Analysts",
     "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/WechatIMG18.jpg"
   },{
-    "name":"Nora Sun",
-    "info":"Nora is an accounting specialist and she is in charge of the accounting department and also provides professional advice for customers. She fully understands the customer’s financial situation and needs and make a personalization investment plan for the individual customer.",
-    "uni":"Macquarie University",
-    "major":"Professional Accounting in CPA",
-    "iconUrl":"https://lirp-cdn.multiscreensite.com/29536662/dms3rep/multi/opt/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202101121608533-440w.jpg"
+    "name":"Evelyn Chen",
+    "info":"Evelyn is an Administrative Manager, who provides standard clerical duties as organize meeting schedules for various department, responds to internal and external communications, handle event and promotion activities and assist human resources activities She is a patient and trustworthy person who has effective communication skills and the ability to operate at different levels of the organization.",
+    "uni":"University of Sydney",
+    "major":"",
+    "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/WeChat%2BImage_202103021324201.jpg"
   },{
     "name":"Tony Liu",
     "info":"Tony is in charge of marketing and usually comes up with innovative ideas and tactics and develop creative concepts to meet the client’s goals, continuously optimize and improve the marketing campaigns  to help the company reach more customers from Australia and overseas.",
@@ -172,12 +172,6 @@
     "uni":"University of Melbourne",
     "major":"Information Technology",
     "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/IMG_4049-006269d6.PNG"
-  },{
-    "name":"Evelyn Chen",
-    "info":"Evelyn is an Administrative Manager, who provides standard clerical duties as organize meeting schedules for various department, responds to internal and external communications, handle event and promotion activities and assist human resources activities She is a patient and trustworthy person who has effective communication skills and the ability to operate at different levels of the organization.",
-    "uni":"University of Sydney",
-    "major":"Marketing and Big Data Analyze",
-    "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/WeChat%2BImage_202103021324201.jpg"
   }
 ]
 }
